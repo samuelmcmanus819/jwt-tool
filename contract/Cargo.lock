@@ -3,7 +3,7 @@
 version = 3
 
 [[package]]
-name = "Secret_Messenger"
+name = "SecretJW_Messenger"
 version = "0.1.0"
 dependencies = [
  "base64 0.21.0",
