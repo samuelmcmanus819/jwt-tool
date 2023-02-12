@@ -3,7 +3,7 @@
 version = 3
 
 [[package]]
-name = "SecretJW_Messenger"
+name = "JWT-Tool"
 version = "0.1.0"
 dependencies = [
  "base64 0.21.0",

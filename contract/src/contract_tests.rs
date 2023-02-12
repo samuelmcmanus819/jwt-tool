@@ -52,6 +52,5 @@ mod tests {
     let provision: ExecuteMsg = ExecuteMsg::Provision{  };
     let res: Binary = execute(deps.as_mut(), mock_env(), info.clone(), provision).unwrap();
     let res: ProvisionResponse = from_binary(&res).unwrap();
-    println!("{:?}", res);
   }
 }

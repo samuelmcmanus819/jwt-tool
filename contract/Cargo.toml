@@ -1,5 +1,5 @@
 [package]
-name = "JWT Tool"
+name = "JWT-Tool"
 version = "0.1.0"
 authors = ["Samuel McManus"]
 edition = "2018"
